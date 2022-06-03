@@ -1,0 +1,127 @@
+.top-container {
+  /* background-color: #D3DEDC; */
+  background-color: #E8F0F2;
+  padding-top: 100px;
+  position: relative;
+}
+
+.middle-container {
+  /* background-color: #D3DEDC; */
+  background-color: #E8F0F2;
+}
+
+.bottom-container {
+  /* background-color: #D3DEDC; */
+  background-color: #F6FBF4;
+  padding: 70px 0 70px 0;
+}
+
+body {
+  /* background-color: #E8F0F2; */
+  text-align: center;
+  margin: 0;
+  font-family: verdana, sans-serif;
+}
+
+h1 {
+  margin: 10px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 4rem;
+}
+
+h2 {
+  font-family: 'Merriweather Sans', sans-serif;
+  font-size: 2.5rem;
+}
+
+.profile-pic {
+  height: 300px;
+  width: 300px;
+  margin-top: 2rem;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 400px;
+  top: 30px;
+}
+
+.bottom-cloud {
+  position: absolute;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.skill-row2 {
+  margin-top: 500px;
+}
+
+.waste-time {
+  width: 25%;
+  float: left;
+}
+
+.c-p {
+  float: right;
+  width: 25%;
+}
+
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-gradient(top, #11cdd4, #11999e);
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+
+hr {
+  border: dotted #7C99AC 6px;
+  border-bottom: none;
+  width: 10%;
+  margin: 50px auto;
+}
+
+.footer-link {
+  margin: 0 40px;
+}
+
+.contact-me {
+  padding: 10px 0;
+}
+a{
+  color: #11999E;
+  text-decoration: none;
+  font-family: 'Merriweather Sans', sans-serif;
+}
+a:hover{
+  color:#30e3cb;
+}
+.copy-right{
+  font-size: 0.75rem;
+}
